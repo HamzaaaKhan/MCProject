@@ -8,7 +8,7 @@ public class firebasemodel {
 
     public firebasemodel()
     {
-
+        
     }
 
     public  firebasemodel (String title, String content)
